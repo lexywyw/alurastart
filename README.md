@@ -1,5 +1,6 @@
 Boas vindas ao meu perfil 💜💜
-Lexy Silva
+
+Lexy Soriano
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
